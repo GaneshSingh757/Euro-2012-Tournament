@@ -1,0 +1,18 @@
+{
+   "FIELD1":["match_num","1","2","9","10","17","18","3","4","11","12","19","20","5","6","13","14","21","22","7","8","15","16","23","24","25","26","27","28","29","30","31"],
+   "FIELD2":["round/group","Group A","Group A","Group A","Group A","Group A","Group A","Group B","Group B","Group B","Group B","Group B","Group B","Group C","Group C","Group C","Group C","Group C","Group C","Group D","Group D","Group D","Group D","Group D","Group D","Quarter-finals","Quarter-finals","Quarter-finals","Quarter-finals","Semi-finals","Semi-finals","Final"],
+   "FIELD3":["matchday","1","1","2","2","3","3","1","1","2","2","3","3","1","1","2","2","3","3","1","1","2","2","3","3","0","0","0","0","0","0","0"],
+   "FIELD4":["date","Jun-08","Jun-08","Jun-12","Jun-12","Jun-16","Jun-16","Jun-09","Jun-09","Jun-13","Jun-13","Jun-17","Jun-17","Jun-10","Jun-10","Jun-14","Jun-14","Jun-18","Jun-18","Jun-11","Jun-11","Jun-15","Jun-15","Jun-19","Jun-19","Jun-21","Jun-22","Jun-23","Jun-24","Jun-27","Jun-28","Jul-01"],
+   "FIELD5":["time","18:00","20:45","18:00","20:45","20:45","20:45","18:00","20:45","18:00","20:45","20:45","20:45","18:00","20:45","18:00","20:45","20:45","20:45","18:00","20:45","20:45","18:00","20:45","20:45","20:45","20:45","20:45","20:45","20:45","20:45","20:45"],
+   "FIELD6":["stadium"," National Stadium Warszawa"," Municipal Stadium Wrocław"," Municipal Stadium Wrocław"," National Stadium Warszawa"," Municipal Stadium Wrocław"," National Stadium Warszawa"," Metalist Stadium"," Arena Lviv"," Arena Lviv"," Metalist Stadium"," Metalist Stadium"," Arena Lviv","","","","","","","","","","","","","","","","","","",""],
+   "FIELD7":["where","Warszawa","Wrocław","Wrocław","Warszawa","Wrocław","Warszawa","Kharkiv","Lviv","Lviv","Kharkiv","Kharkiv","Lviv","","","","","","","","","","","","","","","","","","",""],
+   "FIELD8":["home","Poland","Russia","Greece","Poland","Czech Republic","Greece","Netherlands","Germany","Denmark","Netherlands","Portugal","Denmark","ESP","IRL","ITA","ESP","CRO","ITA","FRA","UKR","SWE","UKR","ENG","SWE","CZE","GER","ESP","ENG","Portugal","Germany","Spain"],
+   "FIELD9":["home_score","1","4","1","1","1","1","0","1","2","1","2","1","1","1","1","4","0","2","1","2","2","0","1","2","0","4","2","0","0","1","4"],
+   "FIELD10":["away_score","1","1","2","1","0","0","1","0","3","2","1","2","1","3","1","0","1","0","1","1","3","2","0","0","1","2","0","0","0","2","0"],
+   "FIELD11":["extraTimeScore","","","","","","","","","","","","","","","","","","","","","","","","","","","","00:00","00:00","",""],
+   "FIELD12":["penaltiesScore","","","","","","","","","","","","","","","","","","","","","","","","","","","","02:04","02:04","",""],
+   "FIELD13":["away","Greece","Czech Republic","Czech Republic","Russia","Poland","Russia","Denmark","Portugal","Portugal","Germany","Netherlands","Germany","ITA","CRO","CRO","IRL","ESP","IRL","ENG","SWE","ENG","FRA","UKR","FRA","POR","GRE","FRA","ITA","Spain","Italy","Italy"],
+   "FIELD14":["","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","",""],
+   "FIELD15":["home_team","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","",""],
+   "FIELD16":["away_team","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","",""]
+}
